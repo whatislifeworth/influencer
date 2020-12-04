@@ -1,0 +1,8 @@
+.middle{
+    /*background-image: url(http://mrmrs.github.io/photos/u/011.jpg)*/
+    background-image:url('/src/components/Middle/sl26.jpg');
+}
+
+.half-black {
+    background: rgba(0, 0, 0, 0.5);
+}
