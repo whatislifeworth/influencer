@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@600&family=Texturina:wght@500&display=swap');
+
+
+  .award_winning_strategy_text_box {
+    display: flex;
+    margin-left: 0;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.pstyle{
+  font-family: 'Assistant', sans-serif;
+  font-size: medium;
+  font-weight: bold;
+  background-image: linear-gradient( 102.3deg,  rgba(147,39,143,1) 5.9%, rgba(234,172,232,1) 64%, rgba(246,219,245,1) 89% );
+  width: max-content;
+}
+
+p{
+  background-color: white;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+h1 {
+  opacity: 1;
+  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+  transform-style: preserve-3d;
+}
+
+.title {
+  font-family: 'Teko',sans-serif;
+  font-size: 72px;
+  background: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  width: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 4em;
+  line-height: 1em;
+
+}
+
+.h1_black_left {
+  font-family: 'Bitstream swiss 721 condensed',sans-serif;
+  background: linear-gradient(to right, #FFFFFF, #FFEFBA); 
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  color: #292e33;
+  text-transform: uppercase;
+  width: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 4em;
+  line-height: 1em;
+}
+
+
+h2 {
+  opacity: 1;
+  transform: translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg);
+  transform-style: preserve-3d;
+}
+
+.h2_yellow_left {
+  margin-top: -.5em;
+  margin-bottom: 0;
+  padding-left: 0;
+  font-family: 'Stay Dreaming Compressed',sans-serif;
+  color: #ffe400;
+  font-size: 6.25em;
+  line-height: 1.2em;
+}
+
+.h2_red_right {
+  width: 100%;
+  margin-top: -.5em;
+  margin-bottom: 0;
+  font-family: 'Stay Dreaming Compressed',sans-serif;
+  color: #e20046;
+  font-size: 3.25em;
+  font-style: italic;
+  line-height: 0.2em;
+  text-align: left;
+  padding-top: 20px;
+}
+
+.subtitle{
+    font-size: 72px;
+    background: -webkit-linear-gradient( 109.6deg,  rgba(48,207,208,1) 11.2%, rgba(51,8,103,1) 92.5% );
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 100%;
+  margin-top: -.5em;
+  margin-bottom: 0;
+  font-family: 'Texturina', serif;
+  font-size: 3.25em;
+  font-style: italic;
+  line-height: 1.2em;
+  text-align: left;
+
+}
+
+
+.background{
+  background-color: #FF9A8B;
+  background-image: linear-gradient( 109.5deg,  rgba(229,233,177,1) 11.2%, rgba(223,205,187,1) 100.2% );
+}
